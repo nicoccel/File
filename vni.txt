@@ -1,0 +1,68 @@
+funzionalità
+
+-registrazione al sito
+-accesso al sito
+
+-carrello
+
+-cambio lingua (ita, ing)
+	-ing non esiste come lingua
+
+-collegamenti con i social
+
+-box delle domande frequenti
+
+-newsletter per le informazioni
+
+-metodi di pagameto esposti sotto (tutti quelli disponibili)
+
+-percorso tematcio:
+	-descrizione dei vini delle regioni
+	-abbonamenti:
+		-tipo percorso (entusiasta, appassioanto, esperto)
+		-scelta di quanti mesi si vogliono ricevere i vini
+		 (1, 3, 6, 12)
+		-ogni mesi ci sono i costi di spedizioni per ogni
+		 consegna
+		-percorso personalzato dove si scelgono i vini
+		 migliori per la persona
+		-regalare l'abbonamento da una persona
+
+-percorsi territoriali:
+	-vini francesi:
+		-in due mesi si ricevono 12 vini
+		-percorso singolo/no abbonamento
+	-vini italiani:
+		-in tre mesi 12 si ricevono 12 vini
+		-no abbonamenti
+	-approfonimetno:
+		-in tre mesi si ricevono 12 vini
+		-no abbonamento
+	-avvicinamento:
+		-in tre mesi si ricevono 12 vini
+		-no abbonamento
+		
+-mostrare i somelier con cui si collabora
+	-mostrare descrizione dei dati
+
+-sezione magazazine
+	-elenco di sezioni dove è presente una casella per argomento
+		-la casella all'interno contiene una descrizione/un testo inerente all'argomento trattato con relative foto
+
+-percorso personalizato con kit profilazione
+	-offre un kit di degustazione dove fa provare
+		-con un codice il prezo è 0
+		
+-account
+	-nome
+	-cognome
+	-email
+	-password
+
+
+
+https://www.codingcreativo.it/effetto-parallasse-css/
+	
+
+
+
